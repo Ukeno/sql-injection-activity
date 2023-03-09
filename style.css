@@ -1,0 +1,36 @@
+body {
+    background-color: whitesmoke;
+    margin: 75px 300px;
+    width: 60%;
+}
+
+form {
+    height: 81vh;
+}
+
+input[type=text],
+input[type=password] {
+    padding: 6px 10px;
+    margin: 10px 15px 10px;
+}
+
+label {
+    color: whitesmoke;
+}
+
+button {
+    text-align: center;
+    padding: 3px 5px;
+    margin: 30px 56px 0;
+    border: double;
+    cursor: pointer;
+    width: 10%;
+}
+
+button:hover {
+    opacity: 0.4;
+}
+
+.container {
+    padding: 10px;
+}
